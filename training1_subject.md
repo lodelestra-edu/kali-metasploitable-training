@@ -92,6 +92,7 @@ At the end of the installation your nessus is not ready yet. You have to 'config
 
 ##C.B/ Scanning with OpenVAS
 OpenVAS (Open vulnerability Assessment System) is an open source tool for testing vulnerabilities.
+
 @. initialise openVAS: `openvas-setup` and `openvas-scapdata-sync` and `openvas-certdata-sync`
 @. add a new user: `openvas-adduser`
 @. gsd
